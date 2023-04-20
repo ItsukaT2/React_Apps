@@ -51,7 +51,7 @@ const SignInForm = () => {
             <a class="forgetpass" href="#">Esqueceu a senha?</a>
             {/* <a href="#">Forgot your password?</a> */}
 
-            <button onClick={signInButton}>Sign In</button>
+            <button onClick={signInButton}>Entrar</button>
           </form>
         </div>
         <div className="overlay-container">
